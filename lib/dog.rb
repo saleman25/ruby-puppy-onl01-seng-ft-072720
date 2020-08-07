@@ -21,7 +21,7 @@ def self.print_all
   @@all.each do |dgo|
         puts dog
       end
-    end
+    
   
 end 
   
