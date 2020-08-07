@@ -5,7 +5,7 @@ class Dog
 
 def initialize 
   puppy
-  @@all 
+  @@all << self
   
   
   
